@@ -1,0 +1,192 @@
+body {
+  font-family:'Orbitron', sans-serif;
+  background-color:#44ab8f;
+	background-image:url('');
+	color: black;
+       font-size: 21px;
+  
+  
+  
+}
+
+header {
+ color: white;
+ background-color:none;
+background-color:#44ab8f;
+ background-image:url('');
+  display:flex-center;
+   padding: 60px 0;
+   
+   font-size:21px;
+}
+
+header .row,
+footer .row {
+  color:#44ab8f;
+  background-color:silver;
+background-image:url(');
+ 
+
+  
+ display: center;
+  align-items: center;
+  color:white;
+  background-color:black;
+  
+}
+
+h1 {
+  color:white;
+  background-image:url('');
+  height: flex-bottom;
+  font-weight: 16px;
+  margin: 19px;
+  display:center;
+  
+  
+
+nav {
+ background-color:black;
+ color: white;
+  display:flex-block;
+  justify-content: flex-end;
+	display: center;
+
+  
+
+  
+  
+
+a {
+color: black;
+  padding: 21px ;
+  margin:  21px;
+}
+  
+  a {
+	color: black; text-decoration: none;
+}
+	a:hover {
+		color:black;
+	}
+
+.jumbotron {
+  display:center;
+
+  align-items: flex;
+  border-image-outset: 11px ;
+display :center-block;
+
+  background-size:cover;
+  color:black;
+  background-color:white;
+  height: 11px;
+}
+
+.jumbotron h2 {
+background-image:url('');
+  font-size: 27px;
+  font-weight: 16px;
+  margin: 8px;
+  color:grey ;
+ 
+
+ 
+ 
+ 
+}
+
+.jumbotron h3 {
+  Font-size: 16px;
+  margin: 0 0 8px;
+  color: ;yellow
+  background-color:black;
+  display:center;
+ 
+}
+
+section .row img {
+  color:black;
+  display: center;
+  
+
+  margin: 1px;
+  width: 1px;
+  
+}
+
+.col-md-6 {
+  color: black;
+  background-color: silver;
+  margin: 0 0 auto;
+}
+
+.btn.btn-primary {
+  border-radius: 11px;
+  border: 11px;
+  color:white;
+  background-color:black ;
+}
+
+.btn.btn-primary:hover {
+  color:white;
+  background-color: silver;
+	display: center;
+}
+
+.btn-secondary {
+  background-color:white ;
+  color:black;
+  margin: 0 0 0 7px
+}
+.button {
+  display: center;
+  color:black;
+  }
+  
+.portrait {
+  color:none;
+  
+  width:  0 auto;
+  height: 0 auto;
+}
+
+figure img {
+  color:white;
+  width: 3px;
+  height: 3px;
+  background-color:black;
+
+}
+
+figure {
+  margin-bottom:none;
+  color:black;
+	display:center;
+}
+
+footer {
+  font-size: 7px;
+  padding: 7px 0;
+  color:black;
+  background-color:white;
+
+
+
+
+
+
+footer .col-sm-8 {
+  background-color:white;
+  color:black;
+  display: flex-center;
+  justify-content: flex-end;
+}
+
+footer ul {
+  color:black;
+  background-color:white;
+  list-style: flex;
+}
+  
+ 
